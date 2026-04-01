@@ -1,0 +1,1 @@
+1. Extensions -> git graph 검색 후 설치
